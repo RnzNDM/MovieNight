@@ -1,2 +1,2 @@
 # MovieNight
-CS201 Project
+CS102 Project
